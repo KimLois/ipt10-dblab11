@@ -1,0 +1,10 @@
+{
+    "name": "badtito/ipt10-lab-11-main",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Badtito\\Ipt10Lab11Main\\": "src/"
+        }
+    },
+    "require": {}
+}
